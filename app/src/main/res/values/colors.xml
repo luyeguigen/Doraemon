@@ -13,4 +13,7 @@
     <color name="red">#FF0000</color>
     <color name="track_selected_color">#AD3170FF</color>
     <color name="track_unselected_color">#EDEDED</color>
+    <color name="aliceblue">#F0F8FF</color><!--艾利斯兰 -->
+    <color name="lightcyan">#E0FFFF</color><!--亮青色 -->
+    <color name="aqua">#00FFFF</color><!--浅绿色 -->
 </resources>

@@ -51,7 +51,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="12dp"
-        android:background="@drawable/app_comm_radius_bg"
+        android:background="@drawable/an_background"
         android:gravity="center"
         android:text="知 道 了"
         android:textColor="@color/white"

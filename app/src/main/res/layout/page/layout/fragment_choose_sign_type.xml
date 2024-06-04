@@ -50,11 +50,10 @@
             android:layout_marginStart="8dp"
             android:layout_marginEnd="16dp"
             android:layout_weight="1"
-            android:background="@drawable/app_comm_radius_bg"
+            android:background="@drawable/an_background"
             android:gravity="center"
             android:letterSpacing="0.3"
             android:text="@string/choose_sign_positive_text"
-            android:textColor="@color/white"
             android:textStyle="bold" />
 
         <TextView
@@ -64,7 +63,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginEnd="8dp"
             android:layout_weight="1"
-            android:background="@drawable/app_light_radius_bg"
+            android:background="@drawable/an_background"
             android:gravity="center"
             android:letterSpacing="0.3"
             android:text="@string/choose_sign_negative_text"

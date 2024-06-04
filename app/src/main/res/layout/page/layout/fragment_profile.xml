@@ -9,6 +9,7 @@
 
     <LinearLayout
         android:id="@+id/profile_container"
+
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical">
@@ -20,6 +21,7 @@
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:id="@+id/cs_my_info"
+
                 android:layout_width="match_parent"
                 android:layout_height="160dp"
                 android:layout_marginStart="16dp"
@@ -63,11 +65,13 @@
                     app:layout_constraintTop_toBottomOf="@+id/tv_profile_username" />
 
                 <TextView
+
                     android:id="@+id/textView36"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="16dp"
-                    android:text="邮箱"
+                    android:textStyle="italic"
+                    android:text="Sign:"
                     app:layout_constraintStart_toStartOf="@+id/iv_profile_user_icon"
                     app:layout_constraintTop_toBottomOf="@+id/iv_profile_user_icon" />
 
@@ -76,8 +80,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    android:text="6431848651@qq.com"
-                    android:textColor="@color/black"
+                    android:text="落叶归根"
+                    android:textColor="@color/appColor"
                     android:textSize="16sp"
                     app:layout_constraintStart_toStartOf="@+id/textView36"
                     app:layout_constraintTop_toBottomOf="@+id/textView36" />
@@ -335,12 +339,13 @@
                 android:id="@+id/tvLogin"
                 android:layout_width="0dp"
                 android:layout_height="50dp"
-                android:layout_marginTop="24dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginBottom="32dp"
-                android:background="@drawable/app_comm_radius_bg"
+                android:background="@drawable/an_background"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="登  出"
-                android:textColor="@color/white"
+                android:textColor="@color/black"
                 android:textSize="16sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="@+id/constraintLayout23"

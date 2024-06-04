@@ -35,8 +35,7 @@
             android:layout_width="wrap_content"
             android:layout_height="35dp"
             android:text="取消"
-            android:textColor="#FFFFFF"
-            android:background="#2196F3"
+            android:background="@drawable/an_background"
             android:layout_marginEnd="8dp" />
 
         <Button
@@ -44,8 +43,8 @@
             android:layout_width="wrap_content"
             android:layout_height="35dp"
             android:text="确定"
-            android:textColor="#FFFFFF"
-            android:background="#2196F3"
+            android:background="@drawable/an_background"
+
             android:layout_marginStart="8dp" />
 
     </LinearLayout>

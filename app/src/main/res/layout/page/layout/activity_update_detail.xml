@@ -104,7 +104,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginEnd="24dp"
         android:layout_marginBottom="32dp"
-        android:background="@drawable/app_comm_radius_bg"
+        android:background="@drawable/an_background"
         android:gravity="center"
         android:letterSpacing="0.1"
         android:text="@string/update_detail_version_update_button_title"

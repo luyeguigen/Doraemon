@@ -58,7 +58,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
         android:layout_marginBottom="16dp"
-        android:background="@drawable/app_comm_radius_bg"
+        android:background="@drawable/an_background"
         android:paddingStart="14dp"
         android:paddingTop="3dp"
         android:paddingEnd="14dp"

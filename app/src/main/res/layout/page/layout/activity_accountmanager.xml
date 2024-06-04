@@ -115,7 +115,7 @@
                     android:layout_width="0dp"
                     android:layout_height="45dp"
                     android:layout_marginTop="16dp"
-                    android:background="@drawable/app_comm_radius_bg"
+                    android:background="@drawable/an_background"
                     android:gravity="center"
                     android:text="绑定账号"
                     android:textColor="@color/white"
